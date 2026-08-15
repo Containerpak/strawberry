@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Strawberry Music Player
+Comment=Play and organize a local music collection.
+Exec=strawberry %U
+Icon=strawberry
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+
