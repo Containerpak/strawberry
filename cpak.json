@@ -4,7 +4,7 @@
   "name": "Strawberry Music Player",
   "description": "Play and organize a local music collection.",
   "version": "1.2.18",
-  "image": "ghcr.io/containerpak/strawberry@sha256:4b60badb2b75f3cbd8fcd29a9a9b22dc45fc5c2ad7194650c1b1c4424187d99b",
+  "image": "ghcr.io/containerpak/strawberry@sha256:711d9ef3cb9854ad9427658aa4bbfb95aac37b69fee1b4866e88aa368785f936",
   "binaries": [
     "/usr/bin/strawberry"
   ],
